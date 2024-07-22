@@ -1,0 +1,20 @@
+[
+  {
+    "id": "aee70b",
+    "roommate": "Vildan Adal",
+    "descripcion": "Articulos de limpieza",
+    "monto": 1000
+  },
+  {
+    "id": "b6acd8",
+    "roommate": "Victoria Nielsen",
+    "descripcion": "jardinería",
+    "monto": 10000
+  },
+  {
+    "id": "771103",
+    "roommate": "Meera Patil",
+    "descripcion": "Articulos de limpieza",
+    "monto": 15000
+  }
+]

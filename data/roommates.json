@@ -1,0 +1,30 @@
+[
+  {
+    "id": "08eecc",
+    "nombre": "Meera Patil",
+    "debe": 2750,
+    "recibe": 11250,
+    "email": "meera.patil@example.com"
+  },
+  {
+    "id": "7a3dd7",
+    "nombre": "Victoria Nielsen",
+    "debe": 4000,
+    "recibe": 7500,
+    "email": "victoria.nielsen@example.com"
+  },
+  {
+    "id": "fb0db6",
+    "nombre": "Vildan Adal",
+    "debe": 6250,
+    "recibe": 750,
+    "email": "vildan.adal@example.com"
+  },
+  {
+    "id": "404a48",
+    "nombre": "Hildegund Steinkamp",
+    "debe": 6500,
+    "recibe": 0,
+    "email": "hildegund.steinkamp@example.com"
+  }
+]
