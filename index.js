@@ -254,7 +254,7 @@ const divirCuentas = () => {
     fs.writeFileSync(path.resolve(__dirname, "./data/roommates.json"), JSON.stringify(arrayRoommates, null, 2), "utf-8");
 };
 
-//función para enviar correo cuando se registra un nuevo gasto
+//función para enviar correo cuando se registra un nuevo gasto ---> CODIGO PARCIAL, AÚN TRABAJANDO
 // const enviarCorreoNuevoGasto = async (gasto) => {
 //     //configuración del transporter 
 //     let transporter = nodemailer.createTransport({
